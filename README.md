@@ -2,7 +2,7 @@ highlighter
 ===========
 
 Sublime Text Color Scheme - Theme
-
+![alt tag](https://github.com/manikandancsea/highlighter/blob/master/highlighter.png)
 
 Installing a Color Scheme Theme on Sublime Text 2/3 is really simple.
 
